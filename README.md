@@ -13,7 +13,7 @@ This repository contains beginner-friendly Python programs based on mathematical
 - Average Velocity
 
 ## Goal
-I am currently learning Python and SQL to become an AI Develope.
+I am currently learning Python and SQL to become an AI Developer.
 
 ## Author
 Amad Bin Jaiyad
